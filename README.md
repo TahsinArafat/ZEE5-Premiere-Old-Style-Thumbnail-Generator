@@ -1,6 +1,10 @@
 ## What is this!?
 
-This tool is made for generating thumbnail(s) from a single image or a video like ZEE5 Premium Episode!
+This tool is made for generating thumbnail(s) from a single image or a video like *ZEE5* Premium Episode automatically!
+
+| Input                                          | Output                                         |
+| ---------------------------------------------- | ---------------------------------------------- |
+| ![1713271107212](image/README/1713271107212.png) | ![1713271125483](image/README/1713271125483.png) |
 
 ## Usage
 
