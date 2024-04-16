@@ -46,7 +46,9 @@ for file in files:
             "fps=1/1",
             "-preset",
             "ultrafast",
-            "Output/" + os.path.splitext(os.path.basename(file))[0] + "_THUMBNAIL.png",
+            "Output/"
+            + os.path.splitext(os.path.basename(file))[0]
+            + "_%3d_THUMBNAIL.png",
         ]
     )
 
