@@ -52,6 +52,9 @@ for file in files:
         ]
     )
 
+for file in glob.glob("Output/*002_THUMBNAIL.png"):
+    os.remove(file)
+
 # Delete files
 for file in glob.glob("components/tmpFiles/tmp1/*"):
     os.remove(file)
