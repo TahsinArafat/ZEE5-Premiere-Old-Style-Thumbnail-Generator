@@ -39,5 +39,5 @@ if day < 10:
 user_input += Day
 
 # Writing the input to a file
-with open("components\\Date.txt", "w+") as file:
+with open("components/Date.txt", "w+") as file:
     file.write(user_input)

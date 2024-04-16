@@ -3,7 +3,7 @@ import glob
 import os
 
 # Input Date
-subprocess.call(["python", "components\\DateInput.py"])
+subprocess.call(["python", "components/DateInput.py"])
 
 # Get list of files in the directory
 files = glob.glob("_input(image)/*.*")

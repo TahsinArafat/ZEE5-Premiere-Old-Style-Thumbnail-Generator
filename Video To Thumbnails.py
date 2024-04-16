@@ -2,11 +2,11 @@ import os
 import subprocess
 
 # Input Date
-subprocess.call(["python", "components\\DateInput.py"])
+subprocess.call(["python", "components/DateInput.py"])
 
 input_dir = "_input(video)"
-temp1_dir = "components\\tmpFiles\\tmp1"
-temp2_dir = "components\\tmpFiles\\tmp2"
+temp1_dir = "components/tmpFiles/tmp1"
+temp2_dir = "components/tmpFiles/tmp2"
 output_dir = "Output"
 
 for file_name in os.listdir(input_dir):
