@@ -2,6 +2,10 @@
 
 This tool is made for generating thumbnail(s) from a single image or a video like *ZEE5* Premium Episode automatically!
 
+* Fastest
+* Easy To Use
+* HD (1280x720)
+
 | Input                                          | Output                                         |
 | ---------------------------------------------- | ---------------------------------------------- |
 | ![1713271107212](image/README/1713271107212.png) | ![1713271125483](image/README/1713271125483.png) |
